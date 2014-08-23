@@ -1,0 +1,26 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	<title>Testing page</title>
+
+
+<body>
+<h1>Testing page</h1>
+
+<h2>§1 English text</h2>
+<p>Unicode—is a ƒ computing-industry s♠ta♦nda♥rd♣ world's “writing” systems. Developed„ IN conjunction:with the"Universal Character< Set> standard and published in book °fo<code></code><code></code><code></code>rm° as The&nbspUnicode&nbspStandard,—the ‘latest’ ‚version of Unicode&contains a repertoire′ of more than 110,000€ characters™ covering 100£ scripts and various symbols.©</p>
+<p>"Apple® has been ¼ supporting Unicode since the beginning…" – Name, Second Name</p>
+<p>The sun has risen—there was high-light.</p>
+<p>π=3,14</p>
+
+<h2>Тест на русском</h2>
+<p>Юнико́д (англ. Unicode)—стандарт кодирования спец-символов и других символов, позволяющий представить знаки почти всех письменных языков.
+Стандарт предложен в 1991 году некоммерческой организацией «Консорциум Юникода» (англ. Unicode Consortium, Unicode Inc.). Применение этого стандарта позволяет закодировать очень большое число символов из разных письменностей: в документах Unicode могут соседствовать китайские иероглифы, чисто-математические символы, буквы греческого алфавита, латиницы и кириллицы, при этом становится ненужным переключение кодовых страниц.</p>
+
+<h2>Текст українською</h2>
+<p>Юніко́д, (англ. Unicode), УНІфіковане КОДування — це промисловий стандарт, розроблений, щоб забезпечити цифрове представлення символів усіх писемностей світу та спеціальних символів. Юнікод складається з асортименту символів, методології кодування та комплекту (набору) стандартів кодування символів, комплекту кодових таблиць для посилань на зображення символів, списку властивостей символів таких, наприклад, як верхній і нижній регістр (розкладка), комплект довідкових даних комп'ютерних файлів, правил нормалізації, декомпозиції, зіставлення і зображення (рендерингу).</p>
+
+</body>
+
+</html>
